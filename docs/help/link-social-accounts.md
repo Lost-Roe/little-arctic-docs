@@ -8,7 +8,7 @@ You can connect your account with Facebook and depending if you are playing on a
 
 Follow the steps bellow for the service that you wish to connect. 
 
-<!-- tabs:start --!>
+<!-- tabs:start -->
 #### **Facebook**
 
 hello
@@ -21,4 +21,4 @@ holi
 
 hule
 
-<!-- tabs:end --!>
+<!-- tabs:end -->
