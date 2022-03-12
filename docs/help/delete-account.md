@@ -4,11 +4,11 @@ Deleting your account is a simple process and you can do it directly from the ga
 1. From the main menu, go to the top left corner button, this will open the user tab.
 2. Tap the "account" button.
 3. Under the Actions section, tap the "delete account" button.
-4. A pop-up screen will appear, detailing the consequences of deleting your account. Wait for the accept button to be enabled and then press it.
+4. A pop-up screen will appear, detailing the consequences of deleting your account. Wait for the accept button to enable and then press it.
 
 <iframe width="256" height="512" src="https://www.youtube.com/embed/lcJfFAA424k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-That is all, a loading screen will asppear and you will see an error message saying that your account is innacesible because it's being deleted. After that, you will be redirected to the login screen. 
+That is all, a loading screen will appear and you will see an error message saying that your account is innacesible because it's being deleted. After that, you will be redirected to the login screen. 
 
 ## I'm unable to access my account, how can I delete it? 
 
