@@ -10,16 +10,18 @@ Follow the steps bellow for the service that you wish to connect.
 
 <!-- tabs:start -->
 
-#### **English**
+#### **Facebook**
 
-Hello!
+<iframe width="256" height="512" src="https://www.youtube.com/embed/wOtPMRupTL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### **French**
 
-Bonjour!
+#### **Google**
 
-#### **Italian**
+<iframe width="256" height="512" src="https://www.youtube.com/embed/OekHx8k5Zg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ciao!
+#### **Apple**
+
+<iframe width="256" height="512" src="https://www.youtube.com/embed/86jOfdMLewE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- tabs:end -->
+
