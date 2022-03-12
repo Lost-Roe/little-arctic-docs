@@ -22,4 +22,5 @@ Indicate that you want to delete your Little Arctic account and provide us with 
 
 All of your player information, stats, inventory and purchases will be removed from our servers. Even if you create a new account with the same credentials, you wont be able to recover anything, not even in-game purchases made with real money. All of your personal information, including details retrieved form third party providers like facebook, apple or google will no longer be accessible by ourselves or any of our third party service providers.
 
-> ***Deleting your account is a non-reversible process and you should be 100% sure that you want to do it before proceeding.***
+> [!WARNING]
+> Deleting your account is a non-reversible process and you should be 100% sure that you want to do it before proceeding.
