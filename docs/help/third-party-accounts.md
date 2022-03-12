@@ -53,4 +53,4 @@ Follow the instruccion bellow for the service that you want to disassociate:
 
 ## Data Collection
 
-The only data collected by Little Arctic from your associated accounts is for authentication and gameplay enhancement. We won't track your activity outside the game or access any sensible information. You can read more about this on our [[privacy-policy | Privacy Policy]]. 
+The only data collected by Little Arctic from your associated accounts is for authentication and gameplay enhancement. We won't track your activity outside the game or access any sensible information. You can read more about this on our [[privacy-policy| Privacy Policy]]. 
