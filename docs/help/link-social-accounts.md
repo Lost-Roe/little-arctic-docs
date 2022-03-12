@@ -9,16 +9,16 @@ You can connect your account with Facebook and depending if you are playing on a
 Follow the steps bellow for the service that you wish to connect. 
 
 <!-- tabs:start --!>
-### **Facebook**
+#### **Facebook**
 
-<iframe width="256" height="512" src="https://youtu.be/wOtPMRupTL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+hello
 
-## **Google Play Games**
+#### **Google Play Games**
 
-<iframe width="256" height="512" src="https://youtu.be/OekHx8k5Zg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+holi
 
-## **Apple**
+#### **Apple**
 
-<iframe width="256" height="512" src="https://youtu.be/vIWN_Qhr_V4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+hule
 
 <!-- tabs:end --!>
