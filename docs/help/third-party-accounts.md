@@ -32,7 +32,7 @@ If you wish to unlink any of your third party accounts, you can do so from insid
 > [!TIP]
 > Remember to always have at least one authentication method for accessing your account, either a third party service like the ones described above or an email address. Otherwise you wont be able to log back in!
 
-Follow the instruccion bellow for the service that you want to disassociate: 
+Follow the instructions bellow for the service that you want to disassociate: 
 
 <!-- tabs:start -->
 
@@ -53,4 +53,4 @@ Follow the instruccion bellow for the service that you want to disassociate:
 
 ## Data Collection
 
-The only data collected by Little Arctic from your associated accounts is for authentication and gameplay enhancement. We won't track your activity outside the game or access any sensible information. You can read more about this on our [Privacy Policy](help/privacy-policy.md).
+The only data collected by Little Arctic from your associated accounts is for authentication and gameplay enhancement. We won't track your activity outside the game or access any sensible information. You can read more about this on our [Privacy Policy](legal/privacy-policy.md).

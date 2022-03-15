@@ -8,7 +8,7 @@ Deleting your account is a simple process and you can do it directly from the ga
 
 <iframe width="256" height="512" src="https://www.youtube.com/embed/lcJfFAA424k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-That is all, a loading screen will appear and you will see an error message saying that your account is innacesible because it's being deleted. After that, you will be redirected to the login screen. 
+That is all, a loading screen will appear and you will see an error message saying that your account is inaccessible because it's being deleted. After that, you will be redirected to the login screen. 
 
 ## I'm unable to access my account, how can I delete it? 
 

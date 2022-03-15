@@ -62,7 +62,7 @@ If You decide to register through or otherwise grant us access to a Third-Party 
 
 You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service’s account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
 
-## USE OF YOUR PERSONAL DATA
+### USE OF YOUR PERSONAL DATA
 The Company may use Personal Data for the following purposes:
 
 - To provide and maintain our Service, including to monitor the usage of our Service.
@@ -90,26 +90,26 @@ For business transfers: We may share or transfer Your personal information in co
 - **With other users:** when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.
 - **With Your consent:** We may disclose Your personal information for any other purpose with Your consent.
 
-## RETENTION OF YOUR PERSONAL DATA
+### RETENTION OF YOUR PERSONAL DATA
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 
-## TRANSFER OF YOUR PERSONAL DATA
+### TRANSFER OF YOUR PERSONAL DATA
 Your information, including Personal Data, is processed at the Company’s operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 
 Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-## DISCLOSURE OF YOUR PERSONAL DATA
-### BUSINESS TRANSACTIONS
+### DISCLOSURE OF YOUR PERSONAL DATA
+#### BUSINESS TRANSACTIONS
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-### LAW ENFORCEMENT
+#### LAW ENFORCEMENT
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-### OTHER LEGAL REQUIREMENTS
+#### OTHER LEGAL REQUIREMENTS
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
 - Comply with a legal obligation
@@ -118,7 +118,7 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 - Protect the personal safety of Users of the Service or the public
 - Protect against legal liability
 
-## SECURITY OF YOUR PERSONAL DATA
+### SECURITY OF YOUR PERSONAL DATA
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
 ## CHILDREN’S PRIVACY

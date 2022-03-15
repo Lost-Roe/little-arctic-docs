@@ -1,0 +1,8 @@
+- [Home](/)
+- Account
+  - [Delete your account](/help/delete-account.md)
+  - [Third Party accounts](/help/third-party-accounts.md)
+  - [Switch player profile](/help/switch-account.md)
+- Legal
+  - [Privacy Policy](/legal/privacy-policy.md)
+  - [Terms & Conditions](/legal/terms-conditions.md)
