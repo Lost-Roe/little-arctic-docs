@@ -1,8 +1,8 @@
-- [Home](/)
-- Account
-  - [Delete your account](/help/delete-account.md)
-  - [Third Party accounts](/help/third-party-accounts.md)
-  - [Switch player profile](/help/switch-account.md)
-- Legal
-  - [Privacy Policy](/legal/privacy-policy.md)
-  - [Terms & Conditions](/legal/terms-conditions.md)
+* [**Home**](/)
+* [**Help**](/help/help.md)
+  * [Delete your account](/help/delete-account.md)
+  * [Third Party accounts](/help/third-party-accounts.md)
+  * [Switch player profile](/help/switch-account.md)
+* [**Legal**](/legal/legal.md)
+  * [Privacy Policy](/legal/privacy-policy.md)
+  * [Terms & Conditions](/legal/terms-conditions.md)
